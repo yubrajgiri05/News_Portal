@@ -1,0 +1,12 @@
+body
+{
+    background: #333333;
+}
+a
+{
+text-decoration: none;
+&:hover
+{
+    color:red !important;
+}
+}
